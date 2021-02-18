@@ -1,6 +1,6 @@
 # Luna Chat 🌙
 
-### Chat Application 
+## Chat Application 
 
 ### **Interactive Media Design** Level 4 - Multimedia & Authoring 4 at Fanshawe College, London.
 
