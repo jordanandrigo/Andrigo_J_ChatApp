@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start-dev": "nodemon app & browser-sync start --proxy 'localhost:3000' --files 'index.html' 'public'",
+    "start-dev": "nodemon app",
+    "start-ui": "browser-sync start --proxy 'localhost:3000' --files 'index.html' 'public'",
     "start": "node app"
   },
   "keywords": [],
@@ -12,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "socket.io": "^3.1.1"
+    "socket.io": "^3.1.1",
+    "vue": "^2.6.12"
   }
 }
