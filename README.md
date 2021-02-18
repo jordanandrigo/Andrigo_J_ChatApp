@@ -14,7 +14,7 @@ There are two ways to launch Luna Chat 🌙 application.
 
 **1.**  Git clone the repo onto your hard drive and run the scripts `npm run start-ui` and `npm run start-dev`.
 
-**2.** Use Heroku and follow the website via [link](https://lunachat.herokuapp.com/).
+**2.** Use Heroku and follow the website via [link](https://my-luna-chat.herokuapp.com/).
 
 ### Tools Used
 
